@@ -2,7 +2,10 @@
     - What are some of its benefits/disadvantages?
     - Is there a circumstance where you'd choose not to use node.js?
     - Have you ever run into "callback hell" while using node.js? How would you avoid it?
-    - What is Typescript? How does it relate to Javascript?
+
+- What is Typescript?
+    - How does it relate to Javascript?
+    - What kind of features does it offer that might make codebase management easier?
 
 - What are some new browser web APIs you're excited about using?
     - What about HTML5 elements you've used?
@@ -13,15 +16,19 @@
 
 ---
 
-- What's the difference between a database like PostgreSQL and a database like DynamoDB.
-    - When would you use one over the other?
+- What's devops?
+    - How does a CI/CD system fit into devops?
+    - What are some different ways of deploying an application? Advantages/disadvantages of these?
 
-- When would you use a queue in your application?
-    - What about a topic/subscription?
+- What's the difference between a database like PostgreSQL and a database like DynamoDB?
+    - When would you use one over the other?
 
 - What are some things you can do to make sure your data stays secure in a cloud environment?
 
 - Are there tools which can be used to help manage resources in cloud environments?
+
+- When would you use a queue in your application?
+    - What about a topic/subscription?
 
 ---
 
@@ -29,14 +36,19 @@
     - What were the advantages/disadvantages of that structure?
     - If you were able to start something from scratch, how would you structure it?
 
+- How do you know whether something needs to be refactored?
+
 - How do you make sure that the code you've written is doing what you expect it to do?
     - How do you make sure your teammates' code is doing what it should do?
 
 - Once your code is ready to deliver to customers, how do you do that?
-    - What about code that's been deployed already - how do you know it's working as expected?
-    - What happens when something you've delivered isn't working in production?
+
+- What are some ways to know that your deployed code is doing what it should be doing?
+    - If you find that something isn't working in production, what do you do?
 
 ---
+
+- Can you talk about a project that you've seen through to completion?
 
 - How do you know what the most important thing to work on is?
 
@@ -45,6 +57,8 @@
 
 - Is it worth staying up to date with new technologies/trends?
     - If yes, how do you do it?
+
+---
 
 - What do you like/dislike about the place you're currently working?
 
