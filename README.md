@@ -1,3 +1,5 @@
+### Node.js, Javascript, Typescript
+
 - Describe some of your usage of node.js...
     - What are some of its benefits/disadvantages?
     - Is there a circumstance where you'd choose not to use node.js?
@@ -7,14 +9,16 @@
     - How does it relate to Javascript?
     - What kind of features does it offer that might make codebase management easier?
 
+- We work a lot with audio in our application, and we often need to figure out whether it's best to do certain processing on the server vs. in the browser. What are some good guidelines for choosing where processing should be done?
+
+### HTML/CSS
+
 - What are some new browser web APIs you're excited about using?
     - What about HTML5 elements you've used?
     - What's the point of semantic HTML?
     - Are there any alternatives to CSS?
 
-- We work a lot with audio in our application, and we often need to figure out whether it's best to do certain processing on the server vs. in the browser. What are some good guidelines for choosing where processing should be done?
-
----
+### Devops
 
 - What's devops?
     - How does a CI/CD system fit into devops?
@@ -25,12 +29,12 @@
 
 - What are some things you can do to make sure your data stays secure in a cloud environment?
 
-- Are there tools which can be used to help manage resources in cloud environments?
+- How would you manage resources in a cloud environment?
 
 - When would you use a queue in your application?
     - What about a topic/subscription?
 
----
+### Code structure
 
 - What are some of the ways in which you've structured the code in the products you've worked on?
     - What were the advantages/disadvantages of that structure?
@@ -46,7 +50,7 @@
 - What are some ways to know that your deployed code is doing what it should be doing?
     - If you find that something isn't working in production, what do you do?
 
----
+### Project management
 
 - Can you talk about a project that you've seen through to completion?
 
@@ -58,7 +62,7 @@
 - Is it worth staying up to date with new technologies/trends?
     - If yes, how do you do it?
 
----
+### General
 
 - What do you like/dislike about the place you're currently working?
 
