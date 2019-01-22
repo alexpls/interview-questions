@@ -53,6 +53,7 @@
 ### Project management
 
 - Can you talk about a project that you've seen through to completion?
+    - How did you make sure that that project could be worked on by other developers in the future.
 
 - How do you know what the most important thing to work on is?
 
@@ -67,3 +68,9 @@
 - What do you like/dislike about the place you're currently working?
 
 - What would your ideal work environment be?
+
+- What was your former manager like? What makes a good manager?
+
+- Was there a coworker you didn't get along with in your previous position? How did you deal with them?
+
+- How would you resolve a difference of opinion between two developers? Can you talk about how you've done this in the past?
